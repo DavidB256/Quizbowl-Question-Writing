@@ -9,6 +9,10 @@ All questions in this repository are original content written and researched by 
 
 **Set information:**
 
+My questions for 2021-2022 ACF Packet Submissions were edited by various editors of the [2021 ACF Fall](https://collegiate.quizbowlpackets.com/2659/), 2022 ACF Regionals, and 2022 ACF Nationals editing staffs. The only one of these sets to be publicly released yet is 2021 ACF Fall, for which my questions can be found in the packet whose title includes "Virginia A."
+
+My questions for 2020-2021 ACF Packet Submissions were edited by various editors of the [2020 ACF Fall](https://collegiate.quizbowlpackets.com/2527/), [2020 ACF Winter](https://collegiate.quizbowlpackets.com/2546/), and [2021 ACF Regionals packets](https://collegiate.quizbowlpackets.com/2592/) editing staffs. The full sets are linked and my questions can be found in the packets whose titles include "UVA A."
+
 My questions for 2021 Spring Novice were edited by [Katherine Lei](https://www.qbwiki.com/wiki/Katherine_Lei). See the full set [here](https://collegiate.quizbowlpackets.com/2593/).
 
 My questions for 2021 WORKSHOP were edited by [Kevin Wang](https://www.qbwiki.com/wiki/Kevin_Wang), [Adam Fine](https://www.qbwiki.com/wiki/Adam_Fine_(Yale)), [Caroline Mao](https://www.qbwiki.com/wiki/Caroline_Mao), and [Wonyoung Jang](https://www.qbwiki.com/wiki/Wonyoung_Jang). See the full set [here](https://collegiate.quizbowlpackets.com/2505/).
