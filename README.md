@@ -1,5 +1,5 @@
 # Quizbowl-Question-Writing
-This is a collection of my former quizbowl question-writing projects.
+This is a collection of my quizbowl question-writing projects.
 
 Quizbowl is a competitive knowledge-based game played at the middle school, high school, collegiate, and open levels. In its standard format, two teams of four go head-to-head on a [packet](https://www.qbwiki.com/wiki/Quizbowl_lingo#packet) consisting of 20 tossup questions and 20 bonus questions, which are read aloud by a moderator. Tossups are paragraph-length [pyramidal](https://www.qbwiki.com/wiki/Pyramidality) questions with many clues on a single answerline that start difficult and gradually get easier. Players use a lock-out buzzer system on tossups with the goal of being the first one to buzz in with the correct answer, even if it means interrupting the moderator. Once a players has correctly answered a tossup, its respective bonus is read. Bonuses are shorter, three-part questions that the correct player's entire team can collaborate on to answer.
 
