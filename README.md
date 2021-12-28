@@ -19,6 +19,6 @@ My questions for 2021 Spring Novice were edited by [Katherine Lei](https://www.q
 
 My questions for 2021 WORKSHOP were edited by [Kevin Wang](https://www.qbwiki.com/wiki/Kevin_Wang), [Adam Fine](https://www.qbwiki.com/wiki/Adam_Fine_(Yale)), [Caroline Mao](https://www.qbwiki.com/wiki/Caroline_Mao), and [Wonyoung Jang](https://www.qbwiki.com/wiki/Wonyoung_Jang). See the full set [here](https://collegiate.quizbowlpackets.com/2505/).
 
-My questions for DECAMERON were revised with suggestions from [Ryan Rosenberg](https://www.qbwiki.com/wiki/Ryan_Rosenberg) and [Itamar Naveh-Benjamin](https://www.qbwiki.com/wiki/Itamar_Naveh-Benjamin). See the full set [here](https://collegiate.quizbowlpackets.com/2509/).
+My questions for DECAMERON were edited by [Ryan Rosenberg](https://www.qbwiki.com/wiki/Ryan_Rosenberg) and [Itamar Naveh-Benjamin](https://www.qbwiki.com/wiki/Itamar_Naveh-Benjamin). See the full set [here](https://collegiate.quizbowlpackets.com/2509/).
 
 Horsin' Around is a non-academic packet based on the TV show BoJack Horseman. It was written for the 2020 Internet Charity Tournament. See the full set [here](https://collegiate.quizbowlpackets.com/2466/).
