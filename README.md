@@ -9,7 +9,9 @@ All questions in this repository are original content written and researched by 
 
 **Set information:**
 
-My questions for 2021-2022 ACF Packet Submissions were edited by various editors of the [2021 ACF Fall](https://collegiate.quizbowlpackets.com/2659/), 2022 ACF Regionals, and 2022 ACF Nationals editing staffs. The only one of these sets to be publicly released yet is 2021 ACF Fall, for which my questions can be found in the packet whose title includes "Virginia A."
+My questions for 2021-2022 ACF Packet Submissions were edited by various editors of the [2021 ACF Fall](https://collegiate.quizbowlpackets.com/2659/), 2022 ACF Regionals, and 2022 ACF Nationals editing staffs. 
+
+The only one of these sets to be publicly released yet is 2021 ACF Fall, for which my questions can be found in the packet whose title includes "Virginia A."
 
 My questions for 2020-2021 ACF Packet Submissions were edited by various editors of the [2020 ACF Fall](https://collegiate.quizbowlpackets.com/2527/), [2020 ACF Winter](https://collegiate.quizbowlpackets.com/2546/), and [2021 ACF Regionals packets](https://collegiate.quizbowlpackets.com/2592/) editing staffs. The full sets are linked and my questions can be found in the packets whose titles include "UVA A."
 
