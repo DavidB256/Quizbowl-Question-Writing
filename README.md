@@ -5,7 +5,7 @@ Quizbowl is a competitive knowledge-based game played at the middle school, high
 
 What makes quizbowl so great is its self-sufficient community; all questions are written and all tournaments are hosted by people who also actively play the game. Constant discussions of the theory of the game occur on [the forums](https://hsquizbowl.org/forums/), past question sets are stored in the [Quizbowl Packet Archive](https://collegiate.quizbowlpackets.com/), detailed statistics are kept in the [Tournament Database](https://hsquizbowl.org/db/tournaments/), and the game's history is recorded in the [Quizbowl Wiki](https://www.qbwiki.com/wiki/Main_Page).
 
-All questions in this repository are original content written and researched by me specifically for the question set in which they were appear.
+All questions in this repository are original content written from my original research. Most of them are edited by other members of the quizbowl community.
 
 **Set information:**
 
