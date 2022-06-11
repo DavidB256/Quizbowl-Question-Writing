@@ -9,11 +9,11 @@ All questions in this repository are original content written from my original r
 
 **Set information:**
 
-My questions for 2021-2022 ACF Packet Submissions were edited by various editors of the [2021 ACF Fall](https://collegiate.quizbowlpackets.com/2659/), 2022 ACF Regionals, and 2022 ACF Nationals editing staffs. 
+Many of my questions for [2022 Boilermaker Spring Novice](https://collegiate.quizbowlpackets.com/2757/) were edited by various editors, as indicated by the initials in square brackets below each question. The questions that I edited, but did not write, are included in the latter part of the document, with writers' initials in angle brackets below each question.
 
-The only one of these sets to be publicly released yet is 2021 ACF Fall, for which my questions can be found in the packet whose title includes "Virginia A."
+My questions for 2021-2022 ACF Packet Submissions were edited by various editors of the [2021 ACF Fall](https://collegiate.quizbowlpackets.com/2659/) and [2022 ACF Regionals](https://collegiate.quizbowlpackets.com/2727/) editing staffs. The full sets are linked and my questions can be found in the packets whose titles include "Virginia."
 
-My questions for 2020-2021 ACF Packet Submissions were edited by various editors of the [2020 ACF Fall](https://collegiate.quizbowlpackets.com/2527/), [2020 ACF Winter](https://collegiate.quizbowlpackets.com/2546/), and [2021 ACF Regionals packets](https://collegiate.quizbowlpackets.com/2592/) editing staffs. The full sets are linked and my questions can be found in the packets whose titles include "UVA A."
+My questions for 2020-2021 ACF Packet Submissions were edited by various editors of [2020 ACF Fall](https://collegiate.quizbowlpackets.com/2527/), [2020 ACF Winter](https://collegiate.quizbowlpackets.com/2546/), and [2021 ACF Regionals packets](https://collegiate.quizbowlpackets.com/2592/). The full sets are linked and my questions can be found in the packets whose titles include "UVA A."
 
 My questions for 2021 Spring Novice were edited by [Katherine Lei](https://www.qbwiki.com/wiki/Katherine_Lei). See the full set [here](https://collegiate.quizbowlpackets.com/2593/).
 
